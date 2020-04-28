@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "rn-starter",
-    "slug": "rn-starter",
+    "name": "Blog",
+    "slug": "Blog",
     "privacy": "public",
     "sdkVersion": "36.0.0",
     "platforms": [
